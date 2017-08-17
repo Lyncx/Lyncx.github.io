@@ -281,7 +281,7 @@ footer {
     -o-background-size: cover;
 }
 
-.discordLink{
-    width: 50%;
-    height: 50%;
+.list-inline {
+    align-items: center;
+    size: 50%;
 }
