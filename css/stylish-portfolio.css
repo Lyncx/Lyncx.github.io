@@ -291,6 +291,6 @@ footer {
 }
 .discordLink {
     vertical-align: middle;
-    position: fixed;
-    vertical-align: middle;
+    margin-left: auto;
+    width: 50%;
 }
