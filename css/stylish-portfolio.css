@@ -282,16 +282,5 @@ footer {
 }
 
 .list-inline {
-    margin: 10px;
-    width: 115px;
-    height: 115px;
-    line-height: 115px;
-    text-align: center;
-    border: 1px;
-}
-.discordLink {
-    vertical-align: middle;
-    margin-left: auto;
-    padding: 10px;
-    text-align: center;
+    align-items: center;
 }
